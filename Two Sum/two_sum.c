@@ -1,11 +1,10 @@
 /**
  * Note: The returned array must be malloced, assume caller calls free().
  */
-#include <stdio.h>
+
 int* twoSum(int* nums, int numsSize, int target, int* returnSize)
 {
-    int i, total = 0;
-    int j;
+    int total = 0;
     int *arr = malloc(2 * sizeof(int));
 
     for (int i = 0; i < numsSize; i++)
