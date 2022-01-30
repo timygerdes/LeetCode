@@ -1,3 +1,4 @@
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=timgerdes)
 # LeetCode
 Set of solved LeetCode problems
 
