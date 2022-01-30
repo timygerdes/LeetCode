@@ -1,4 +1,4 @@
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=timgerdes&extension=activity)
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=timgerdes&extension=activity&theme=dark)
 # LeetCode
 Set of solved LeetCode problems
 
