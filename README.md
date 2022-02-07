@@ -8,4 +8,6 @@ Set of solved LeetCode problems
 * #21 Merge Two Sorted Lists
 * #26 Remove Duplicates from Sorted Array
 * #58 Length of Last Word
+* #485 Max Consecutive Ones
 * #506 Relative Ranks
+* #1295 Find Numbers with Even Number of Digits
