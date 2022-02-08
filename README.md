@@ -10,6 +10,7 @@ Set of solved LeetCode problems
 * #26 Remove Duplicates from Sorted Array
 * #58 Length of Last Word
 * #70 Climbing Stairs
+* #94 Binary Tree Inorder Traversal
 * #485 Max Consecutive Ones
 * #506 Relative Ranks
 * #1295 Find Numbers with Even Number of Digits
