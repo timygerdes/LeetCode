@@ -13,4 +13,5 @@ Set of solved LeetCode problems
 * #94 Binary Tree Inorder Traversal
 * #485 Max Consecutive Ones
 * #506 Relative Ranks
+* #977 Squares of a Sorted Array
 * #1295 Find Numbers with Even Number of Digits
