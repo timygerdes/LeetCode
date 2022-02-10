@@ -13,6 +13,7 @@ Set of solved LeetCode problems
 * #58 Length of Last Word
 * #70 Climbing Stairs
 * #94 Binary Tree Inorder Traversal
+* #136 Single Number
 * #485 Max Consecutive Ones
 * #506 Relative Ranks
 * #977 Squares of a Sorted Array
