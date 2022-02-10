@@ -11,6 +11,7 @@ Set of solved LeetCode problems
 * #26 Remove Duplicates from Sorted Array
 * #28 Implement strStr()
 * #58 Length of Last Word
+* #66 Plus One
 * #70 Climbing Stairs
 * #94 Binary Tree Inorder Traversal
 * #136 Single Number
