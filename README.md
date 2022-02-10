@@ -9,6 +9,7 @@ Set of solved LeetCode problems
 * #20 Valid Parentheses
 * #21 Merge Two Sorted Lists
 * #26 Remove Duplicates from Sorted Array
+* #28 Implement strStr()
 * #58 Length of Last Word
 * #70 Climbing Stairs
 * #94 Binary Tree Inorder Traversal
