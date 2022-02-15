@@ -14,9 +14,17 @@ Set of solved LeetCode problems
 * #35 Search Insert Position
 * #58 Length of Last Word
 * #66 Plus One
+* #69 Sqrt(x)
 * #70 Climbing Stairs
 * #94 Binary Tree Inorder Traversal
+* #118 Pascal's Triangle
+* #121 Best Time to Buy and Sell Stock
 * #136 Single Number
+* #268 Missing Number
+* #326 Power of Three
+* #344 Reverse String
+* #387 First Unique Character in a String
+* #412 Fizz Buzz
 * #485 Max Consecutive Ones
 * #506 Relative Ranks
 * #704 Binary Search
