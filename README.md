@@ -3,9 +3,11 @@
 Set of solved LeetCode problems
 
 * #1 Two Sum
+* #3 Longest Substring without Repeating Characters
 * #7 Reverse Integer
 * #9 Palindrome Number
 * #14 Longest Common Prefix
+* #19 Remove Nth Node from End of List
 * #20 Valid Parentheses
 * #21 Merge Two Sorted Lists
 * #26 Remove Duplicates from Sorted Array
@@ -27,6 +29,8 @@ Set of solved LeetCode problems
 * #412 Fizz Buzz
 * #485 Max Consecutive Ones
 * #506 Relative Ranks
+* #566 Reshape the Matrix
 * #704 Binary Search
+* #876 Middle of the Linked List
 * #977 Squares of a Sorted Array
 * #1295 Find Numbers with Even Number of Digits
