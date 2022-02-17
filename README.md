@@ -14,22 +14,27 @@ Set of solved LeetCode problems
 * #27 Remove Element
 * #28 Implement strStr()
 * #35 Search Insert Position
+* #36 Valid Sudoku
 * #58 Length of Last Word
 * #66 Plus One
 * #69 Sqrt(x)
 * #70 Climbing Stairs
+* #74 Search a 2D Matrix
 * #94 Binary Tree Inorder Traversal
 * #118 Pascal's Triangle
 * #121 Best Time to Buy and Sell Stock
 * #136 Single Number
+* #242 Valid Anagram
 * #268 Missing Number
 * #326 Power of Three
 * #344 Reverse String
+* #383 Ransom Note
 * #387 First Unique Character in a String
 * #412 Fizz Buzz
 * #485 Max Consecutive Ones
 * #506 Relative Ranks
 * #566 Reshape the Matrix
+* #567 Permutation in String
 * #704 Binary Search
 * #876 Middle of the Linked List
 * #977 Squares of a Sorted Array
