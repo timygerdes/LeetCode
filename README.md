@@ -20,10 +20,14 @@ Set of solved LeetCode problems
 * #69 Sqrt(x)
 * #70 Climbing Stairs
 * #74 Search a 2D Matrix
+* #83 Remove Duplicates from Sorted List
 * #94 Binary Tree Inorder Traversal
 * #118 Pascal's Triangle
 * #121 Best Time to Buy and Sell Stock
 * #136 Single Number
+* #141 Linked List Cycle
+* #203 Remove Linked List Element
+* #206 Reverse Linked List
 * #242 Valid Anagram
 * #268 Missing Number
 * #326 Power of Three
@@ -35,7 +39,9 @@ Set of solved LeetCode problems
 * #506 Relative Ranks
 * #566 Reshape the Matrix
 * #567 Permutation in String
+* #695 Max Area of Island
 * #704 Binary Search
+* #733 Flood Fill
 * #876 Middle of the Linked List
 * #977 Squares of a Sorted Array
 * #1295 Find Numbers with Even Number of Digits
